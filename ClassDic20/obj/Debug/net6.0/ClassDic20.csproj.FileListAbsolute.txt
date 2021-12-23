@@ -1,0 +1,17 @@
+C:\Users\lervi\source\repos\ClassDic20\ClassDic20\bin\Debug\net6.0\ClassDic20.deps.json
+C:\Users\lervi\source\repos\ClassDic20\ClassDic20\bin\Debug\net6.0\ClassDic20.dll
+C:\Users\lervi\source\repos\ClassDic20\ClassDic20\bin\Debug\net6.0\ref\ClassDic20.dll
+C:\Users\lervi\source\repos\ClassDic20\ClassDic20\bin\Debug\net6.0\ClassDic20.pdb
+C:\Users\lervi\source\repos\ClassDic20\ClassDic20\obj\Debug\net6.0\ClassDic20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lervi\source\repos\ClassDic20\ClassDic20\obj\Debug\net6.0\ClassDic20.AssemblyInfoInputs.cache
+C:\Users\lervi\source\repos\ClassDic20\ClassDic20\obj\Debug\net6.0\ClassDic20.AssemblyInfo.cs
+C:\Users\lervi\source\repos\ClassDic20\ClassDic20\obj\Debug\net6.0\ClassDic20.csproj.CoreCompileInputs.cache
+C:\Users\lervi\source\repos\ClassDic20\ClassDic20\obj\Debug\net6.0\ClassDic20.dll
+C:\Users\lervi\source\repos\ClassDic20\ClassDic20\obj\Debug\net6.0\ref\ClassDic20.dll
+C:\Users\lervi\source\repos\ClassDic20\ClassDic20\obj\Debug\net6.0\ClassDic20.pdb
+C:\Users\lervi\source\repos\ClassDic20\ClassDic20\bin\Debug\net6.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\lervi\source\repos\ClassDic20\ClassDic20\bin\Debug\net6.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\lervi\source\repos\ClassDic20\ClassDic20\bin\Debug\net6.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\lervi\source\repos\ClassDic20\ClassDic20\bin\Debug\net6.0\ClassDic20.runtimeconfig.json
+C:\Users\lervi\source\repos\ClassDic20\ClassDic20\obj\Debug\net6.0\ClassDic20.csproj.AssemblyReference.cache
+C:\Users\lervi\source\repos\ClassDic20\ClassDic20\obj\Debug\net6.0\ClassDic20.genruntimeconfig.cache
